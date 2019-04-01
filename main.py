@@ -6,7 +6,7 @@ import urllib.request
 import zipfile
 global START_DATE, DURATION
 
-#! Product: Simple parser for solar and Earth's magnetic sci data
+#! Product: 	Simple parser for solar and Earth's magnetic sci data
 #! Dev: 	@ngh7mr3
 #! License:	MIT
 #! Source: 	https://github.com/ngh7mr3/sci-data
